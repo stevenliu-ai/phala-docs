@@ -11,7 +11,7 @@ Phala has upgraded to use Superbridge as the cross-chain tool for Ethereum Layer
 
 Superbridge is an advanced cross-chain bridge solution enabling secure and efficient asset transfers between Ethereum Layer 1 (L1) and Layer 2 (L2) networks. It supports ETH and ERC-20 tokens and incorporates a mandatory challenge period of about 7 days for withdrawals from L2s to L1 to ensure transaction finality and security in the optimistic rollup model. Deposits are fast, but withdrawals follow this waiting period as a security measure. Superbridge is an integral part of Phala’s upgraded cross-chain tools, ensuring a seamless user experience and robust asset safety.
 
-For more information, see the [official documentation](https://help.superbridge.app/en/).
+For more information, see the [Superbridge documentation](https://help.superbridge.app/en/).
 
 
 
