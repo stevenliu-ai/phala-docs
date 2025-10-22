@@ -16,35 +16,35 @@ If you do not hold any PHA, you can purchase PHA from any of the following excha
       Trade PHA on Binance →
     </a>
   </Card>
-  
+
   <Card title="Kraken" icon="external-link">
     <img src="/images/kraken.jpeg" alt="Kraken" style={{ width: '60px', height: 'auto', marginBottom: '10px' }} />
     <a href="https://www.kraken.com/prices/phala.network" target="_blank" rel="noopener noreferrer">
       Trade PHA on Kraken →
     </a>
   </Card>
-  
+
   <Card title="OKEX" icon="external-link">
     <img src="/images/3-OKEx.png" alt="OKX" style={{ width: '60px', height: 'auto', marginBottom: '10px' }} />
     <a href="https://www.okx.com/trade-spot/pha-usdt" target="_blank" rel="noopener noreferrer">
       Trade PHA on OKX →
     </a>
   </Card>
-  
+
   <Card title="HTX" icon="external-link">
     <img src="/images/2-Huobi.png" alt="Huobi" style={{ width: '60px', height: 'auto', marginBottom: '10px' }} />
     <a href="https://www.htx.com/price/pha/" target="_blank" rel="noopener noreferrer">
       Trade PHA on Huobi →
     </a>
   </Card>
-  
+
   <Card title="KuCoin" icon="external-link">
     <img src="/images/4-KuCoin.png" alt="KuCoin" style={{ width: '60px', height: 'auto', marginBottom: '10px' }} />
     <a href="https://trade.kucoin.com/PHA-USDT" target="_blank" rel="noopener noreferrer">
       Trade PHA on KuCoin →
     </a>
   </Card>
-  
+
   <Card title="Gate.io" icon="external-link">
     <img src="/images/7-Gate.png" alt="Gate.io" style={{ width: '60px', height: 'auto', marginBottom: '10px' }} />
     <a href="https://www.gate.io/trade/PHA_USDT" target="_blank" rel="noopener noreferrer">
@@ -54,9 +54,9 @@ If you do not hold any PHA, you can purchase PHA from any of the following excha
 </Columns>
 
 <Note type="info">
-Not all brokers may be available in your jurisdiction. Note that some brokers require you to have an account with them for a certain period before you can transfer your funds to another wallet, such as the [Phala Wallet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fphala.api.onfinality.io%2Fpublic-ws#/accounts).
+Not all brokers may be available in your jurisdiction. Note that some brokers require you to have an account with them for a certain period before you can transfer your funds to another wallet.
 </Note>
 
 ## Transfer PHA to and from Other Chains <a href="#transfer-pha-fromto-other-chains" id="transfer-pha-fromto-other-chains"></a>
 
-For now, you can transfer your PHA between Ethereum and Phala, as well as several other Parachains with [SubBridge](/network/references/subbridge). Refer to the introduction and our tutorial for more details.
+For now, you can transfer your PHA between Ethereum and Phala, as well as several other Parachains with [Superbridge](bridge.phala.network). Refer to the introduction and our tutorial for more details.
